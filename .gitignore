@@ -225,3 +225,16 @@ __marimo__/
 .DS_Store
 
 .dev_log/
+
+# FileWalker run-time folders (FR-02): user data, never committed
+/config/
+/output/
+/logs/
+/cache/
+
+# Operating system, editor files and the maintainer's local folder (CAD L.7)
+Thumbs.db
+desktop.ini
+.vscode/
+.idea/
+dev_log/
